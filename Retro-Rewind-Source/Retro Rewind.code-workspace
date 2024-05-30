@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Common",
+			"path": "Common"
+		},
+		{
+			"name": "RetroRewind",
+			"path": "RetroRewind"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"xmemory": "cpp"
+		}
+	}
+}
