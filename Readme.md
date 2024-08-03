@@ -1,1 +1,1 @@
-# You know that stalking me is also not cool, right?
+# Also ZPL is a plagarist.
