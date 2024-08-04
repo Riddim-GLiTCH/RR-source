@@ -1,1 +1,1 @@
-# Also ZPL is a plagarist.
+# Also ZPL is a plagiarist.
